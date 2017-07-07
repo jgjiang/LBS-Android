@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyHangOut</string>
+    <string name="shake_mobile_and_find_places">Shake Mobile and Find Places</string>
+    <string name="google_api_key">AIzaSyAHN8RmgtJADm3oXfEjzpj3MQEnKwC6Gms</string>
+    <string name="foursquareClientID">MVNEYYI1H00M4WW5UPH1XNY3IBGVW3C1UIOITZ5KIZDBPBSJ</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
